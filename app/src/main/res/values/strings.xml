@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ResistorCalc</string>
+    <string-array name="banda1">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="banda2">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="banda3">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+    <string-array name="banda4">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+        <item>Ninguno</item>
+    </string-array>
+</resources>
